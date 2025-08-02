@@ -1,0 +1,45 @@
+ Heart Disease Prediction using SVM – Key Points
+Model Used: Support Vector Machine (SVM) for binary classification (0 = No Heart Disease, 1 = Heart Disease).
+
+Accuracy:
+
+Achieved an overall accuracy of 87% (i.e., 53 out of 61 predictions were correct).
+
+Class-wise Performance:
+
+Class 0 (No Heart Disease):
+
+Precision: 0.86
+
+Recall: 0.86
+
+F1-score: 0.86
+
+Class 1 (Heart Disease):
+
+Precision: 0.88
+
+Recall: 0.88
+
+F1-score: 0.88
+
+Average Scores:
+
+Macro Average (unweighted mean): All metrics = 0.87
+
+Weighted Average (based on support): All metrics = 0.87
+
+Support:
+
+Class 0: 29 samples
+
+Class 1: 32 samples
+
+Model Performance Summary:
+
+Balanced performance across both classes.
+
+High recall and precision for detecting heart disease.
+
+No indication of class imbalance or overfitting.
+
